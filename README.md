@@ -9,4 +9,4 @@ Sponsoring: Erasmus+ "Staff mobility for teaching"
 * Lab 1
 * Lab 2
 * Lab
-* To go further
+* Going further
