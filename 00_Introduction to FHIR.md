@@ -30,7 +30,7 @@
 
 The FHIR standard covers several areas (http://hl7.org/fhir/)
 
-![Areas of the FHIR Standard](Images/FHIR_Areas_of_Standard.png)
+![Areas of the FHIR Standard](assets/FHIR_Areas_of_Standard.png)
 
 There are three very important principles to FHIR:
 + Resources to represent healthcare information
@@ -46,13 +46,13 @@ A main component of the FHIR standard are resources (http://hl7.org/fhir/resourc
 
 Resources have a differnt maturity level which specifies how stable the resource is.
 
-![FHIR resources](Images/FHIR_resources.png)
+![FHIR resources](assets/FHIR_resources.png)
 
 All resources have a well documented structure with attributes and their corresponding data types.
 
 Here for example the Patient resource (http://hl7.org/fhir/patient.html#resource):
 
-![The Patient resource](Images/FHIR_resource_structure.png)
+![The Patient resource](assets/FHIR_resource_structure.png)
 
 
 ### RESTful API
