@@ -8,5 +8,5 @@ Sponsoring: Erasmus+ "Staff mobility for teaching"
 * Introduction to FHIR
 * Lab 1
 * Lab 2
-* Lab
-* Going further
+* Lab 3
+* Scripts and data
